@@ -350,14 +350,14 @@ body{
 }
 
 #touchmark{
-    background-image: url(IMG/to);
+    background-image: url(IMG/oneyes.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 
 #logwiz{
-    background-image: url(../img/logos/Logwiz.jpg);
+    background-image: url(IMG/linessofttech.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -369,19 +369,19 @@ body{
 }
 
 #adcom{
-    background-image: url(../img/logos/adcom.jpeg);
+    background-image: url(IMG/bigeyeglobal.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #monolith{
-    background-image: url(../img/logos/Monolithic.jpg);
+    background-image: url(IMG/bltzwork.jpeg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #iiec{
-    background-image: url(../img/logos/1iiec.png);
+    background-image: url(IMG/thozhil_img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -399,7 +399,7 @@ body{
 }
 
 #commnet{
-    background-image: url(../img/logos/commnet.jpeg);
+    background-image: url(IMG/bigeyeglobal.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -411,7 +411,7 @@ body{
 }
 
 #future-captains{
-    background-image: url(../img/logos/futurecaptains.jpeg);
+    background-image: url(IMG/digitallyvibed.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -423,13 +423,13 @@ body{
 }
 
 #infiniti-codes{
-    background-image: url(../img/logos/infiniticode.jpeg);
+    background-image: url(IMG/oneyes.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #infoziant{
-    background-image: url(../img/logos/infoziant.jpeg);
+    background-image: url(IMG/Winwinweb.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -441,19 +441,19 @@ body{
 }
 
 #lines-soft-tech{
-    background-image: url(../img/logos/linessofttech.jpg);
+    background-image: url(IMG/linessofttech.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #makers-tribe{
-    background-image: url(../img/logos/makers.jpeg);
+    background-image: url(IMG/Exatech.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
 
 #nunnari{
-    background-image: url(../img/logos/nunnari.jpg);
+    background-image: url(IMG/vulturelines.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -477,7 +477,7 @@ body{
 }
 
 #voice-snap{
-    background-image: url(../img/logos/voicesnap.jpg);
+    background-image: url(IMG/Exatech.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
